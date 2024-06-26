@@ -12,7 +12,7 @@ I live in Surabaya. I developed myself on the web for over 3 years. I am current
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (AngularJs & React)**
-- Backend development using **PHP,Node** with framework **Codeigniter, Laravel, Yii2, Slim microframework, Express JS**
+- Backend development using **PHP, Node** with framework **Codeigniter, Laravel, Slim microframework, Express JS**
 - Mobile development using **React Native**
 - Making for **Relational Database Management Systems**
 
